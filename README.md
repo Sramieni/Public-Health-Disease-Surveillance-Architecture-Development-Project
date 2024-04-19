@@ -1,4 +1,4 @@
-# Public-Health-Disease-Surveillance-Architecture-Development-Project
+# Public Health Disease Surveillance Architecture Development Project
 ### Overview
 
 The Public Health Disease Surveillance Architecture Development Project aimed to create a robust infrastructure for monitoring and managing disease outbreaks. This involved setting up virtual machines (VMs) on the MTU College of Computing Cluster, deploying an OpenEMR system for electronic medical records, configuring a HAPI FHIR server for data exchange, and utilizing Synthea for generating synthetic patient data for disease outbreak simulations.
