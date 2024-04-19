@@ -23,7 +23,7 @@ The Public Health Disease Surveillance Architecture Development Project aimed to
 
 1. **Configuration Complexity**: Setting up the virtual machines and configuring network settings required careful attention to detail to ensure proper connectivity.
 2. **Software Integration**: Integrating OpenEMR, Synthea, and HAPI FHIR posed challenges in configuring each component to work seamlessly within the architecture.
-3. **API Interaction**: Understanding and utilizing Postman effectively for interacting with the HAPI FHIR server, performing CRUD operations, and managing authentication required a learning curve.
+3. **API Interaction**: Understanding and utilizing Postman effectively for interacting with the HAPI FHIR server, performing CRUD (Create/Read/Update/Delete) operations, and managing authentication required a learning curve.
 
 ### Outcomes Achieved
 
